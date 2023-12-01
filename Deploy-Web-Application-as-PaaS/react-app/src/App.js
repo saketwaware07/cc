@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my first React Application
+          This is my lab exam practical to deploy a web application in a Paas environment!
         </p>
         <a
           className="App-link"
